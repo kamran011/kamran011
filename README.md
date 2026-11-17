@@ -1,41 +1,43 @@
-# Hi there, I'm Kamran! 👋 
+# Hi there, I'm Kamran! 👋
 
-### 🚀 Full-Stack Engineer | AWS Certified | SaaS & AI Specialist
+### 🤖 Senior AI Engineer · Python, LLMs, RAG Systems
 
-I am a service-oriented and self-motivated developer dedicated to building high-performance web applications. With a focus on **SaaS Architecture** and **AI Agent Integration**, I specialize in turning complex ideas into scalable, production-ready products.
+I build production AI systems: retrieval-augmented generation, LLM-powered products and custom ML models, on top of 7 years of full-stack software engineering. For the last 1.5+ years I've been shipping AI to production, currently at **ICOMMUNIX** working on AI and LLM systems.
+
+📍 Lahore, Pakistan · ☁️ AWS Certified
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it is |
+|---|---|
+| **[Ragix](https://archivolt-rag.vercel.app)** | Multi-tenant RAG SaaS: document ingestion, retrieval and grounded answers, with each tenant's data kept separate |
+| **AIVA Revolution** | AI concierge for the hospitality industry |
+| **[py_captcha_tool](https://github.com/kamran011/py_captcha_tool)** | Custom CRNN model exported to ONNX: 98.1% exact match on 1,000 held-out synthetic CAPTCHAs at ~3 ms per image, with a FastAPI backend and a Streamlit dashboard |
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
 | Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
-| **Backend** | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| **State/Data** | ![Zustand](https://img.shields.io/badge/-Zustand-443322?style=flat-square) ![TanStack](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+|---|---|
+| **AI / ML** | Python, LLMs, RAG, embeddings and vector search, PyTorch, ONNX |
+| **Backend** | FastAPI, NestJS, Node.js, Laravel |
+| **Frontend** | Next.js, React, Angular |
+| **Data** | PostgreSQL, Zustand, TanStack Query |
+| **Cloud** | AWS, Kubernetes |
 
 ---
 
-### 🤖 Current Focus
-* **AI Agent Integration:** Developing intelligent, assistant-driven workflows within SaaS platforms.
-* **Scalable Architecture:** Designing cloud-ready systems with a "detail-first" approach.
-* **Performance Optimization:** Crafting clean, maintainable code for enterprise-grade applications.
+### 🎯 Current Focus
+
+- Taking RAG and agent systems from prototype to production: evaluation, cost control and reliability
+- Multi-tenant AI SaaS architecture
+- Small, fast custom models where an LLM call is overkill
 
 ---
 
-### 📈 GitHub Ecosystem
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kamran011&show_icons=true&theme=radical" alt="Kamran's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran011&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
+### 📫 Reach Me
 
----
-
-### 📧 Get in Touch
-* **Portfolio:** [kamranqayyum-portfolio.vercel.app](https://kamranqayyum-portfolio.vercel.app/)
-* **LinkedIn:** [linkedin.com/in/kamranqayyum94](https://www.linkedin.com/in/kamranqayyum94/)
-* **Email:** [kamranqayyum94@gmail.com](mailto:kamranqayyum94@gmail.com)
-
----
-*“Thorough and attentive to detail in all professional matters.”*
+🌐 [archivolt-rag.vercel.app](https://archivolt-rag.vercel.app)
