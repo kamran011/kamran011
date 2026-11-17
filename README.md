@@ -2,7 +2,7 @@
 
 ### 🤖 Senior AI Engineer · Python, LLMs, RAG Systems
 
-I build production AI systems: retrieval-augmented generation, LLM-powered products and custom ML models, on top of 7 years of full-stack software engineering. For the last 1.5+ years I've been shipping AI to production, currently at **ICOMMUNIX** working on AI and LLM systems.
+I build production AI systems: retrieval-augmented generation, LLM-powered products and custom ML models, on top of 7 years of full-stack software engineering. For the last 1.5+ years I've been shipping AI to production, most recently at **ICOMMUNIX** working on AI and LLM systems. **Open to Senior AI Engineer roles.**
 
 📍 Lahore, Pakistan · ☁️ AWS Certified
 
