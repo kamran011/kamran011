@@ -40,4 +40,6 @@ I build production AI systems: retrieval-augmented generation, LLM-powered produ
 
 ### 📫 Reach Me
 
-🌐 [archivolt-rag.vercel.app](https://archivolt-rag.vercel.app)
+🌐 Portfolio: [kamranqayyum-portfolio.vercel.app](https://kamranqayyum-portfolio.vercel.app/)
+
+🚀 Ragix: [archivolt-rag.vercel.app](https://archivolt-rag.vercel.app)
